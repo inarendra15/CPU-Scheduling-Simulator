@@ -1,0 +1,12 @@
+# Compiled executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Other compiled output
+*.out
+
+# VS Code local settings
+.vscode/
